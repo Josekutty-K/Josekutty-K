@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm JOSEKUTTY KUNNELTHAZHE BINU</h1>
+<h1 align="center">Hey 👽, I'm JOSEKUTTY KUNNELTHAZHE BINU</h1>
 <h3 align="center">Cybersecurity Researcher | Bug Bounty Hunter | I hack for fun and money 🔓</h3>
 
 - 💼 Currently working as a **freelance bug bounty hunter**

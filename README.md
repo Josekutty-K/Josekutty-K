@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👽, I'm JOSEKUTTY KUNNELTHAZHE BINU</h1>
 <h3 align="center">Cybersecurity Researcher | Bug Bounty Hunter | I hack for fun and money 🔓</h3>
 
-- 💼 I’m just a guy with a regular day job who hacks at night — because I love it.  
+- 💼 I’m just a guy with a regular day job who hacks at night because I love it.  
   Getting access to admin panels gives me an **adrenaline rushhh 🔥💻**
 
   - Platforms: HackerOne | Bugcrowd | YesWeHack | Private Bug Bounty Programs

@@ -7,14 +7,12 @@
 
 ---
 
-- 💼 I’m just a guy with a regular day job who hacks at night because I love it.  
-  Getting access to admin panels gives me an **adrenaline rushhh 🔥💻**
-
-- 🌐 Platforms: HackerOne | Bugcrowd | YesWeHack | Private Bug Bounty Programs  
+- I am an artist 🎨 
+  
 - 📁 Portfolio: [josekutty.pages.dev](https://josekutty.pages.dev)  
 - ✍️ I share **writeups** and experiences on [Medium](https://medium.com/@josekuttykunnelthazhebinu)  
 - 📫 Reach me: **josekuttykunnelthazhebinu@gmail.com**  
-- 🔗 Let’s connect: [LinkedIn](http://linkedin.com/in/josekutty-kunnelthazhe-binu-9b484429b)
+- 🔗 Connect: [LinkedIn](http://linkedin.com/in/josekutty-kunnelthazhe-binu-9b484429b)
 
 ---
 

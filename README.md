@@ -1,10 +1,6 @@
 <h1 align="center">Hey 👽, I'm JOSEKUTTY KUNNELTHAZHE BINU</h1>
 <h3 align="center">Cybersecurity Researcher | Bug Bounty Hunter | I hack for fun and money 🔓</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=Night+Hacker+by+choice%2C+not+chance.;Admin+panels+are+my+adrenaline+shot+%F0%9F%94%A5;Burp+Suite+%3E+Postman+%F0%9F%98%85;IDOR+is+love%2C+SQLi+is+life;Fueled+by+Red+Bull+%F0%9F%90%82+and+cigarettes+%F0%9F%9A%AC." alt="Typing SVG" />
-</p>
-
 ---
 
 - I am an artist 🎨 

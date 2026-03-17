@@ -5,7 +5,7 @@
 
 - I am an artist 🎨 
   
-- 📁 Portfolio: [josekutty.pages.dev](https://josekutty.pages.dev)  
+- 📁 Portfolio: [josekutty.pages.dev](https://josekutty-kunnelthazhe-binu.vercel.app/)  
 - ✍️ I share **writeups** and experiences on [Medium](https://medium.com/@josekuttykunnelthazhebinu)  
 - 📫 Reach me: **josekuttykunnelthazhebinu@gmail.com**  
 - 🔗 Connect: [LinkedIn](http://linkedin.com/in/josekutty-kunnelthazhe-binu-9b484429b)
